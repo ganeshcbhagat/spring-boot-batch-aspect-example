@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-batch-aspect-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hp
+Implementation-Vendor-Id: com.opportunity
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-example
+Created-By: Maven Integration for Eclipse
+
